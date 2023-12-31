@@ -1,3 +1,5 @@
+# Strings are immutable
+
 test = "anshthakur"
 number = "55" #This is numeric string
 print(test.upper())
